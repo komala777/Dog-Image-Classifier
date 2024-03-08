@@ -6,7 +6,7 @@ Correctly classify the breed of dog, for the images that are of dogs.
 Determine which CNN model architecture (ResNet, AlexNet, or VGG16), "best" achieve the objectives 1 and 2.
 Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms take to run.
 ## This project meets the following specifications:
-<li> calls the time functions before the start of main code and after the main logic has been finished.
+ calls the time functions before the start of main code and after the main logic has been finished.
 adds command line argument for '--dir': uses default ='pet_images/'
 adds command line argument for '--arch': default='vgg'
 adds command line argument for '--dogfile': default='dognames.txt'
